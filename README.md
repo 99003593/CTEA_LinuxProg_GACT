@@ -1,3 +1,4 @@
-# Linux OS Programming - Group Activity 1 Submission
+# Linux OS Programming - Group Activity Submission
 
-## Project : Pub/Sub
+## Project 1 : Pub/Sub
+
